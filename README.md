@@ -1,5 +1,5 @@
 
-![Logo UMB](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_237.png?itok=LaVxt7WP "UMB") ![Logo EdoMex](https://upload.wikimedia.org/wikipedia/commons/a/ae/Escudo_del_Estado_de_M%C3%A9xico.png "Gobierno del Estado de México")
+![Logo UMB](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_237.png?itok=LaVxt7WP "UMB") 
 
 ### UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO
 ### UNIDAD DE ESTUDIOS SUPERIORES SAN JOSÉ DEL RINCÓN

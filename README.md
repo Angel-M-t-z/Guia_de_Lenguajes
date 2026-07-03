@@ -1,5 +1,5 @@
 
-![Logo UMB](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_237.png?itok=LaVxt7WP "UMB") ![Logo EdoMex](https://www.conalepmex.edu.mx/images/2018/01/11/sitio-interes4-edomexgob.png "Gobierno del Estado de México")
+![Logo UMB](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_237.png?itok=LaVxt7WP "UMB") ![Logo EdoMex](https://upload.wikimedia.org/wikipedia/commons/a/ae/Escudo_del_Estado_de_M%C3%A9xico.png "Gobierno del Estado de México")
 
 ### UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO
 ### UNIDAD DE ESTUDIOS SUPERIORES SAN JOSÉ DEL RINCÓN
